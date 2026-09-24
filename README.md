@@ -14,10 +14,6 @@ The system allows users to:
 - Escalate high-priority tickets
 - Process ticket events asynchronously
 
-## AWS Architecture
-
-![AWS Architecture](architecture.png)
-
 ## AWS Services Used
 
 - Amazon S3 – Hosts the frontend
